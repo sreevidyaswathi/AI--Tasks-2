@@ -39,4 +39,3 @@ with open(filename, 'w') as csvfile:
     # writing data rows 
     writer.writerows(FinalData) 
 
-import pandas as pd
